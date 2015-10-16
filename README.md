@@ -8,4 +8,5 @@ a response with no data.
 #Run
 
 npm run update-schema
+
 npm start
